@@ -1,0 +1,119 @@
+
+⸻
+
+📅 Day 2: June 2, 2025
+📘 Topic: Variance, Sample Variance, and Standard Deviation
+🎥 Source: Khan Academy Statistics Playlist
+
+⸻
+
+1. 🧩 What Is Variance?
+
+👶 Simple Explanation:
+
+Variance tells us how spread out the numbers are from the average (mean).
+If everyone scores close to the mean → low variance
+If scores are far from the mean → high variance
+
+📖 Real-Life Example:
+
+Imagine you and your friends got these scores:
+	•	Group A: 70, 71, 69 → All scores near 70
+	•	Group B: 30, 70, 110 → Wildly different from 70
+
+➡️ Same average, but Group B is more spread out — so higher variance!
+
+🧠 Memory Hook:
+
+Variance = Vibration → Are the numbers vibrating far from the average?
+
+⸻
+
+2. 🧠 Formula for Population Variance (σ²)
+
+σ^2 = \frac{(x_1 - μ)^2 + (x_2 - μ)^2 + … + (x_n - μ)^2}{n}
+
+🔍 Let’s Break It Down:
+	•	x_i: each value
+	•	μ: the mean
+	•	(x_i - μ)^2: distance from mean (squared to avoid negatives)
+	•	Divide by n because we’re considering the whole population
+
+➡️ This gives us the average squared distance from the mean.
+
+⸻
+
+3. 🧩 What Is Sample Variance? (s²)
+
+👶 Simple Explanation:
+
+We often don’t have the whole population — just a sample.
+To avoid underestimating the true spread, we divide by (n−1) instead of n.
+
+s^2 = \frac{(x_1 - \bar{x})^2 + … + (x_n - \bar{x})^2}{n - 1}
+
+🧠 But Why (n−1)?
+
+🔬 Unbiased Estimation
+Your sample might be “too neat” by chance. Dividing by (n−1) inflates the spread a bit to compensate for missing data. This correction is called Bessel’s correction.
+
+⸻
+
+4. 🧪 Simulation: Why Use (n−1)?
+
+Khan Academy shows with visual simulations:
+	•	Repeatedly taking samples
+	•	Calculating variance using n vs (n−1)
+	•	Comparing with true population variance
+
+📌 Result:
+Sample variance using (n−1) gives a better unbiased estimate.
+Using n underestimates the spread!
+
+🧠 Memory Hook:
+Sample → Subset → Slightly stretched → Use (n−1)
+
+⸻
+
+5. 🧩 Standard Deviation (σ or s)
+
+👶 Simple Explanation:
+
+Standard deviation is just the square root of variance.
+If variance = how bouncy the data is, standard deviation = how much it wobbles on average.
+
+σ = \sqrt{σ^2}
+
+📖 Example:
+If variance = 16, then SD = √16 = 4
+→ On average, each number is 4 units away from the mean.
+
+🧠 Trick:
+Standard deviation = “typical distance” from the mean.
+
+⸻
+
+📊 Summary Table
+
+| Concept |	What It Means |	Why It Matters |	Memory Hook |
+|---------|---------------|----------------|--------------|
+| Variance (σ²) |	Avg squared distance from mean | Tells data spread (sensitive to outliers) | Variance = Vibration |
+| Sample Variance (s²)	| Adjusted variance from sample |	Gives accurate estimate of population |	Sample → (n−1) stretch |
+| Standard Deviation	| Square root of variance	| Real-world spread (in original units) |	Mood swing size |
+
+
+⸻
+
+💬 One-Line Summary for Day 2:
+
+“Variance tells you how jittery your data is; standard deviation shows how far they swing from the average.”
+
+⸻
+
+🔁 Flash Prompts for Revision:
+	1.	Why do we use (n−1) for sample variance instead of n?
+	2.	What’s the relationship between variance and standard deviation?
+	3.	If standard deviation is 0, what does it mean?
+	4.	Which gives better insight: variance or standard deviation?
+
+⸻
