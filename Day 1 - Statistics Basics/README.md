@@ -61,6 +61,6 @@ By the end of this folder, you’ll be able to:
 ## Credits
 
 Built from daily notes, Khan Academy videos, Coursera content, and real-world breakdowns.  
-Made with love for learners who want **clarity without complexity**.
+Made with love for learners who want **clarity without complexity**
 
 ---
