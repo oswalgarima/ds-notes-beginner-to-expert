@@ -45,7 +45,6 @@ By the end of this folder, you’ll be able to:
 
 - Speak confidently about statistics in interviews.
 - Apply core concepts to real datasets.
-- Understand what tools like pandas, NumPy, and scikit-learn are doing under the hood.
 - Stop fearing stats — and start using it.
 
 ---
@@ -53,8 +52,6 @@ By the end of this folder, you’ll be able to:
 ## Bonus (Coming Soon..)
 
 - Interview-style MCQs for each topic
-- Visual mind maps
-- PDF quick notes
 
 ---
 

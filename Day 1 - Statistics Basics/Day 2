@@ -94,11 +94,11 @@ Standard deviation = “typical distance” from the mean.
 
 📊 Summary Table
 
-| Concept |	What It Means |	Why It Matters |	Memory Hook |
-|---------|---------------|----------------|--------------|
-| Variance (σ²) |	Avg squared distance from mean | Tells data spread (sensitive to outliers) | Variance = Vibration |
-| Sample Variance (s²)	| Adjusted variance from sample |	Gives accurate estimate of population |	Sample → (n−1) stretch |
-| Standard Deviation	| Square root of variance	| Real-world spread (in original units) |	Mood swing size |
+| Concept 		| What It Means 			| Why It Matters 				| Memory Hook 		|
+|-----------------------|---------------------------------------|-----------------------------------------------|-----------------------|
+| Variance (σ²) 	| Avg squared distance from mean 	| Tells data spread (sensitive to outliers) 	| Variance = Vibration 	|
+| Sample Variance (s²)	| Adjusted variance from sample 	| Gives accurate estimate of population 	| Sample → (n−1) stretch|
+| Standard Deviation	| Square root of variance		| Real-world spread (in original units) 	| Mood swing size 	|
 
 
 ⸻
