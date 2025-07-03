@@ -52,8 +52,6 @@ By the end of this folder, you’ll be able to:
 ## Bonus (Coming Soon..)
 
 - Interview-style MCQs for each topic
-- Visual mind maps
-- PDF quick notes
 
 ---
 
