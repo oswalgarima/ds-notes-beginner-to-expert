@@ -1,4 +1,4 @@
-# 🐍 Python for Beginners 📘
+# 🐍 Python for Beginners
 
 Welcome to the **Python for Beginners** section of my Data Science notes!  
 This folder is meant for absolute beginners who want to learn Python from scratch — explained in a **super simple**, **step-by-step**, and **real-life example** style.
@@ -24,15 +24,6 @@ Each subfolder contains:
 | `02_variables` | Variables | How to store data, assign names, swap values |
 | `03_conditions` | Conditions | `if`, `else`, `elif` — decision making in Python |
 | *(More coming soon)* | … | … |
-
----
-
-## 🎥 Learning Source & Credit
-
-These notes are based on the amazing YouTube playlist:  
-📺 [**Python Programming for Beginners** – Curiosity 4 Students](https://www.youtube.com/playlist?list=PLsTEvedQ53UKsmXpPAyWk4Iw8Q4Sz57Ax)
-
-> All video teaching credit goes to the original creators. This repo is just my personal learning + revision notes in easy-to-understand form.
 
 ---
 
