@@ -66,13 +66,13 @@ It’s like: “mean of squares minus square of mean.”
 
 📊 Summary Table
 
-| Concept                     |	 What It Means                                  | Why It Matters                                | Memory Hook |	
-|-----------------------------|-------------------------------------------------|-----------------------------------------------|--------------------|
-| Sample Std. Dev. (s)        | Spread from sample mean, adjusted               | More accurate for small data slices	        | Sample → Stretch → (n−1) | 
-| Bias in Variance	      | Underestimating spread using n	                | Fixed with (n−1) for fairness	                | Unbiased lens = Better truth | 
-| Alt. Variance Formula       |	Uses squares directly (mean of squares)         | Faster & efficient for large datasets	        | Square-Mean trick | 
+| Concept                     |	 What It Means                                  | Why It Matters                                | Memory Hook 			|	
+|-----------------------------|-------------------------------------------------|-----------------------------------------------|-------------------------------|
+| Sample Std. Dev. (s)        | Spread from sample mean, adjusted               | More accurate for small data slices	        | Sample → Stretch → (n−1) 	| 
+| Bias in Variance	      | Underestimating spread using n	                | Fixed with (n−1) for fairness	                | Unbiased lens = Better truth 	| 
+| Alt. Variance Formula       |	Uses squares directly (mean of squares)         | Faster & efficient for large datasets	        | Square-Mean trick 		| 
 | Population Variance (σ²)    |	Avg. squared distance from true mean	        | Works only when full data is available	| All data → no guessing needed | 
-| Standard Deviation (σ or s) |	Square root of variance = typical “wiggle room” | Easy to understand spread in original units	| Swing size from center | 
+| Standard Deviation (σ or s) |	Square root of variance = typical “wiggle room” | Easy to understand spread in original units	| Swing size from center 	| 
 
 
 ⸻
