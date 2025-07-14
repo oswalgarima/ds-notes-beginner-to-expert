@@ -1,6 +1,6 @@
 ⸻
 
-🧠 Python If-Else Conditions — Beginner to Pro
+🧠 Python If-Else Conditions
 
 🎥 YouTube Playlist: Python Programming for Beginners – If Else Conditions
 👨‍🏫 Channel: Curiosity 4 Students
