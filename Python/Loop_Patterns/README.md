@@ -31,7 +31,7 @@ This repository contains solutions to classic loop-based pattern questions in Py
 
 ---
 
-### 🔢 Pattern 1: Repeating Same Row
+🔢 Pattern 1: Repeating Same Row
 
 1 2 3 4 5
 1 2 3 4 5
