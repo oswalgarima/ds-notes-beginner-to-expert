@@ -30,20 +30,21 @@ This repository contains solutions to classic loop-based pattern questions in Py
 ## ✅ Solved Patterns
 
 ---
+Sure! Here’s that pattern in README.md-friendly format with beginner-friendly explanation and Python code, ready to paste into your GitHub documentation:
 
-🔢 Pattern 1: Repeating Same Row
+⸻
 
-1 2 3 4 5
-1 2 3 4 5
-1 2 3 4 5
+🔢 Pattern: Repeating Numbers in Each Row
+
+1 2 3 4 5  
+1 2 3 4 5  
+1 2 3 4 5  
 1 2 3 4 5
 
-```python
-for i in range(4):
-    for j in range(1, 6):
+for i in range(4):          # Repeat 4 times
+    for j in range(1, 6):   # Print 1 to 5
         print(j, end=' ')
-    print()
-
+    print()                 # Move to next line
 
 ⸻
 
