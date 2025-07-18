@@ -191,8 +191,23 @@ print('1 ' * 5)
 13 17 19 23  
 29 31 37 41 47
 
+Absolutely! Here’s the Pattern 11: Prime Number Triangle written in clean, beginner-friendly README.md format — perfect to paste into your GitHub documentation:
+
+⸻
+
+🔢 Pattern 11: Prime Number Triangle
+
+1  
+2 3  
+5 7 11  
+13 17 19 23  
+29 31 37 41 47
+
+
+
 def is_prime(n):
-    if n <= 1: return False
+    if n <= 1:
+        return False
     for i in range(2, int(n**0.5)+1):
         if n % i == 0:
             return False
@@ -200,13 +215,15 @@ def is_prime(n):
 
 count = 0
 num = 2
-for i in range(1, 6):
-    for j in range(i):
+for i in range(1, 6):  # 5 rows
+    for j in range(i):  # Row i has i numbers
         while not is_prime(num):
             num += 1
         print(num, end=' ')
         num += 1
     print()
+
+
 
 ---
 
