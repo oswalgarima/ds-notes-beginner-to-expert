@@ -91,14 +91,18 @@
 
 ⸻
 
-Thank you for your patience — here is exactly what you’re asking for, in Markdown format ready to paste directly into your README.md file. This version ensures:
-	•	✅ Proper line spacing
-	•	✅ Correct code block formatting (no mixed-up snippets)
-	•	✅ Clean display in GitHub markdown
+## 🛠 Sample Problem Explanation
 
-⸻
+### 🎯 Problem:
+**Find the largest number in an array**  
+**Input:** [5, 3, 9, 1, 6]  
+**Output:** 9
 
+---
 
+### 🔎 C++ Code
+
+```cpp
 int largest(int arr[], int n) {
     int max = arr[0];
     for(int i = 1; i < n; i++) {
@@ -108,12 +112,13 @@ int largest(int arr[], int n) {
     }
     return max;
 }
-
+```
 
 ⸻
 
 🐍 Python Code
 
+```python
 def largest(arr):
     max_val = arr[0]
     for num in arr[1:]:
@@ -121,7 +126,7 @@ def largest(arr):
             max_val = num
     return max_val
 
-```cpp
+```
 ⸻
 
 
