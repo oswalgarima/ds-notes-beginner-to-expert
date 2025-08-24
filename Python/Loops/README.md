@@ -1,6 +1,6 @@
 ⸻
 
-📚 Day X: Python Loops — Beginner to Pro
+📚 Python Loops — Beginner to Pro
 
 🎥 YouTube Playlist: Python Programming for Beginners - Loops
 👨‍🏫 Channel: Curiosity 4 Students
