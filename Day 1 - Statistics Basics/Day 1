@@ -147,16 +147,16 @@ They tell us how spread out the numbers are from the mean.
 
 🧾 Summary Table:
 
-| Concept		| What It Means 		| Why It Matters 		| Memory Hook 		|
+| Concept				| What It Means 				| Why It Matters 				| Memory Hook 			|
 |-----------------------|-------------------------------|-------------------------------|-----------------------|
-| Mean 	  		| Total ÷ Count 		| Shows average 		| Sharing chocolates 	|
-| Median		| Middle value 			| Not affected by outliers 	| Middle of a queue 	|
-| Mode 			| Most frequent 		| Popular number 		| MO = Most Occurring 	|
-| Range 		| Max - Min 			| Basic spread idea 		| From where to where? 	|
-| Mid-range 		| (Max + Min)/2 		| Easy central idea 		| Quick midpoint 	|
-| Variance 		| Squared distance from mean 	| Foundation of SD 		| Spread squared 	| 
-| Standard Deviation 	| √Variance 			| Shows data’s “moodiness” 	| Mood swings of data 	|
-| Box Plot 		| Visual 5-number summary 	| Fast spread, outlier check 	| Ruler with checkpoints|
+| Mean 	  				| Total ÷ Count 				| Shows average 				| Sharing chocolates 	|
+| Median				| Middle value 					| Not affected by outliers 		| Middle of a queue 	|
+| Mode 					| Most frequent 				| Popular number 				| MO = Most Occurring 	|
+| Range 				| Max - Min 					| Basic spread idea 			| From where to where? 	|
+| Mid-range 			| (Max + Min)/2 				| Easy central idea 			| Quick midpoint 		|
+| Variance 				| Squared distance from mean 	| Foundation of SD 				| Spread squared 		| 
+| Standard Deviation 	| √Variance 					| Shows data’s “moodiness” 		| Mood swings of data 	|
+| Box Plot 				| Visual 5-number summary 		| Fast spread, outlier check 	| Ruler with checkpoints|
 
 
 ⸻
