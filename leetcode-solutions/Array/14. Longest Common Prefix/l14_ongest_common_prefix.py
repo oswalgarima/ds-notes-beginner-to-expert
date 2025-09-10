@@ -5,7 +5,7 @@
 # GOAL:
 # Given a list of strings, return the longest common prefix (starting part) shared by all strings.
 # If no common prefix exists, return an empty string "".
-'''python
+```python
 def longestCommonPrefix(strs):
     # Edge Case Check: If the input list is empty, return empty string
     if not strs:
@@ -37,5 +37,4 @@ print(longestCommonPrefix(["interspecies", "interstellar", "interstate"]))  # Ou
 print(longestCommonPrefix(["throne", "throne"]))  # Output: "throne"
 print(longestCommonPrefix([""]))  # Output: ""
 print(longestCommonPrefix(["a"]))  # Output: "a"
-
-'''
+```
