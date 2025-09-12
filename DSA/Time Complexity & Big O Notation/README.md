@@ -1,15 +1,10 @@
 ⸻
 
-
 # 📘 Day 2: Time Complexity & Big O Notation
-
-🎥 **Video Title:** Time Complexity and Big O Notation  
-🔗 [Watch on YouTube](https://www.youtube.com/watch?v=vgSKOMsjLbc&list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi&index=2)  
-📅 **Date Studied:** 19th July, 2025
 
 ---
 
-## 📌 What You Learned Today
+## 📌 What You Will Learn Today
 
 ### ⏱️ What is Time Complexity?
 
