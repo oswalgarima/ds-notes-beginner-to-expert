@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 What You Learned Today
+## 📌 What You Will Learn Today
 
 - **Best Case**: The scenario where the algorithm performs in the minimum possible time.  
   *Like finding your name immediately in a list—so fast!*
