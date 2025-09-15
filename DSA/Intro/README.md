@@ -145,10 +145,10 @@ def largest(arr):
 ⸻
 
 🔁 Flash Revision Prompts
-	1.	What is the difference between data structure and algorithm?
-	2.	Can you give an example of a stack from daily life?
-	3.	What does recursion mean in simple words?
-	4.	Which DSA topic is best to start with after arrays?
+-	1.	What is the difference between data structure and algorithm?
+-	2.	Can you give an example of a stack from daily life?
+-	3.	What does recursion mean in simple words?
+-	4.	Which DSA topic is best to start with after arrays?
 
 ⸻
 
