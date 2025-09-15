@@ -81,10 +81,10 @@ Insert/Delete	Taking out or putting in items	Some operations are slow
 ⸻
 
 🔁 Flash Revision Prompts
-	1.	What makes an array different from ADT?
-	2.	Why do arrays have fixed size?
-	3.	How do you traverse an array?
-	4.	Which operations are fast in arrays — accessing vs inserting in middle?
+-	1.	What makes an array different from ADT?
+-	2.	Why do arrays have fixed size?
+-	3.	How do you traverse an array?
+-	4.	Which operations are fast in arrays — accessing vs inserting in middle?
 
 ⸻
 
