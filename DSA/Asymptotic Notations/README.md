@@ -80,10 +80,10 @@ Big Theta	Both bounds — tight bound	Gives “typical range” of performance
 ⸻
 
 🔁 Flash Revision Prompts
-	1.	What’s the difference between Big O and Big Omega?
-	2.	Why do we care about worst‑case (Big O) more than best‑case in many scenarios?
-	3.	Give an example of an algorithm with Θ(n).
-	4.	How would you argue that an algorithm is not Θ(f(n))?
+-	1.	What’s the difference between Big O and Big Omega?
+-	2.	Why do we care about worst‑case (Big O) more than best‑case in many scenarios?
+-	3.	Give an example of an algorithm with Θ(n).
+-	4.	How would you argue that an algorithm is not Θ(f(n))?
 
 ⸻
 
