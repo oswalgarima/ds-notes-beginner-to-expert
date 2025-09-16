@@ -89,10 +89,10 @@ O(log n)	Input is halved each time	Guess-the-number game 🎯
 ⸻
 
 🔁 Flash Revision Prompts
-	1.	What is time complexity in one sentence?
-	2.	Why do we use Big O notation instead of counting steps?
-	3.	Give one real-world example of O(1), O(n), and O(n²).
-	4.	What is the time complexity of binary search?
+-	1.	What is time complexity in one sentence?
+-	2.	Why do we use Big O notation instead of counting steps?
+-	3.	Give one real-world example of O(1), O(n), and O(n²).
+-	4.	What is the time complexity of binary search?
 
 ⸻
 

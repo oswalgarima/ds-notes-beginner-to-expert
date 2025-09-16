@@ -98,10 +98,12 @@ Fixed size	Boxes are limited once made	Limitations for growing data; memory fixe
 ⸻
 
 🔁 Flash Revision Prompts
+<<<<<<< child
 	1.	What makes an ADT different from a data structure implementation?
 	2.	Why is index‑based access in arrays fast?
 	3.	What operations are slow or expensive on arrays (like insert / delete)?
 	4.	What is meant by “fixed size” in the context of an array?
+>>>>>>> main
 
 ⸻
 

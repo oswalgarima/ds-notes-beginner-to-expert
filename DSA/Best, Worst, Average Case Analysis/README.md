@@ -69,10 +69,10 @@ Average Case	Normal everyday scenario somewhere between best & worst	“On a bad
 ⸻
 
 🔁 Flash Revision Prompts
-	1.	What’s an example of a best-case scenario for an algorithm?
-	2.	Why do people often design algorithms with worst-case in mind?
-	3.	What kind of input distribution affects average case?
-	4.	How does best/worst/average relate to Big O, Big Theta, etc.?
+-	1.	What’s an example of a best-case scenario for an algorithm?
+-	2.	Why do people often design algorithms with worst-case in mind?
+-	3.	What kind of input distribution affects average case?
+-	4.	How does best/worst/average relate to Big O, Big Theta, etc.?
 
 ⸻
 

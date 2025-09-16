@@ -70,10 +70,10 @@ Nested loops multiply	Inner loop * outer loop → more work	Row × Column grid p
 ⸻
 
 🔁 Flash Revision Prompts
-	1.	Why do constant factors not matter in big‑O?
-	2.	What happens to complexity when you have nested loops?
-	3.	Give an example of when two separate code blocks are added and how you combine their complexities.
-	4.	How would you simplify O(3n + 2n² + 5)?
+-	1.	Why do constant factors not matter in big‑O?
+-	2.	What happens to complexity when you have nested loops?
+-	3.	Give an example of when two separate code blocks are added and how you combine their complexities.
+-	4.	How would you simplify O(3n + 2n² + 5)?
 
 ⸻
 
