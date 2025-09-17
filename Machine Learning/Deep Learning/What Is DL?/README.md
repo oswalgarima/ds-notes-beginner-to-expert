@@ -65,9 +65,8 @@ Over time, with enough pictures, it gets really good—even with new photos it�
 
 ## ✅ Citation
 
-📚 Based on: *What is Deep Learning?* by (insert video creator)  
+📚 Based on: *What is Deep Learning?* by (Professor Bryce)  
 🧠 Additional references: IBM, Google Cloud, Microsoft Azure articles on Deep Learning.  [oai_citation:5‡IBM](https://www.ibm.com/think/topics/deep-learning?utm_source=chatgpt.com)  
-📅 Date Studied: (Insert your date here)
 
 ---
 
