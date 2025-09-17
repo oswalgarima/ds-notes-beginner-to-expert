@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 What You Learned Today
+## 📌 What You Will Learn Today
 
 - What it means to implement an **Array as an Abstract Data Type (ADT)** in C: wrapping up arrays and operations in a clean interface.  
 - Common operations include: create, access, modify/update, display, maybe delete.  
