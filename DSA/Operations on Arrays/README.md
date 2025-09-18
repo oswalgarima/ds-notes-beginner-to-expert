@@ -103,14 +103,15 @@ int main() {
 
 ⸻
 
-📊 Summary Table
+## 📊 Summary Table
 
-Operation	Time Complexity Best Case	Time Complexity Worst Case	Notes
-Traversal	O(n)	O(n)	Must visit all elements
-Search	O(1) (if found early)	O(n)	Depends where item is in array
-Insertion (end)	O(1)	O(n)	Worst case if shifting needed
-Insertion (middle)	O(n)	O(n)	Shifting required
-Deletion (middle)	O(n)	O(n)	Similar shifts needed
+| Operation         | Time Complexity (Best Case) | Time Complexity (Worst Case) | 💡 Notes                                      |
+|------------------|------------------------------|-------------------------------|-----------------------------------------------|
+| Traversal        | O(n)                         | O(n)                          | Must visit all elements                       |
+| Search           | O(1) (if found early)        | O(n)                          | Depends where the item is in the array       |
+| Insertion (end)  | O(1)                         | O(n)                          | Fast if appending; slow if resizing needed   |
+| Insertion (mid)  | O(n)                         | O(n)                          | All elements after insert point shift forward|
+| Deletion (mid)   | O(n)                         | O(n)                          | All elements after delete point shift backward|
 
 
 ⸻
@@ -122,10 +123,10 @@ Deletion (middle)	O(n)	O(n)	Similar shifts needed
 ⸻
 
 🔁 Flash‑Revision Prompts
-	-1.	What’s the difference between insertion at the end vs insertion in the middle?
-	-2.	Why is deletion slower in an array than deletion in other structures like linked lists?
-	-3.	How does searching change in best vs worst case?
-	-4.	What makes shifting necessary for some operations?
+-	1.	What’s the difference between insertion at the end vs insertion in the middle?
+-	2.	Why is deletion slower in an array than deletion in other structures like linked lists?
+-	3.	How does searching change in best vs worst case?
+-	4.	What makes shifting necessary for some operations?
 
 ⸻
 
