@@ -59,9 +59,9 @@ print(neuron([1, 0], [0.6, 0.4], -0.5))  # OR‑like behavior
 ⸻
 
 ✅ Why This Matters
-	•	Understanding single neurons is key before building deeper neural networks.
-	•	Helps you grasp limitations of simple models and why deeper architectures exist.
-	•	Sets the foundation for learning perceptrons, multi-layer networks, backpropagation.
+	-•	Understanding single neurons is key before building deeper neural networks.
+	-•	Helps you grasp limitations of simple models and why deeper architectures exist.
+	-•	Sets the foundation for learning perceptrons, multi-layer networks, backpropagation.
 
 ⸻
 
