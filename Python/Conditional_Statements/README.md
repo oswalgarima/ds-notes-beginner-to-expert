@@ -144,9 +144,9 @@ if x > 0:
 ⸻
 
 🔁 Flashcard Prompts for Revision
-	1.	When do we use elif instead of else?
-	2.	What’s the use of logical operators?
-	3.	What’s the output of if 5 > 3 and 2 == 2?
-	4.	Why do we need pass?
+-	1.	When do we use elif instead of else?
+-	2.	What’s the use of logical operators?
+-	3.	What’s the output of if 5 > 3 and 2 == 2?
+-	4.	Why do we need pass?
 
 ⸻
