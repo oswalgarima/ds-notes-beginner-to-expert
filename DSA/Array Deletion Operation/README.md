@@ -108,8 +108,8 @@ Python .pop(index)	O(n)	O(n)	Under the hood does the shifting
 
 ✅ Citation
 
-📚 Based on: Coding Deletion Operation in Array Using C Language by CodeWithHarry
-📺 YouTube Playlist: DSA in C/C++ – CodeWithHarry
-🧠 All credit to the original creator.
+- 📚 Based on: Coding Deletion Operation in Array Using C Language by CodeWithHarry
+- 📺 YouTube Playlist: DSA in C/C++ – CodeWithHarry
+- 🧠 All credit to the original creator.
 
 ⸻
