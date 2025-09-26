@@ -129,8 +129,8 @@ print("Binary:", binary_search(arr, target))  # Output: 3
 
 ✅ Citation
 
-📚 Based on: Linear Vs Binary Search + Code in C Language
-🎥 YouTube Playlist: DSA in C/C++ – CodeWithHarry
-🧠 All credit to the original creator
+-📚 Based on: Linear Vs Binary Search + Code in C Language
+-🎥 YouTube Playlist: DSA in C/C++ – CodeWithHarry
+-🧠 All credit to the original creator
 
 ⸻
