@@ -132,8 +132,8 @@ class ArrayADT:
 
 ✅ Citation
 
-📚 Based on: Implementing Array as an Abstract Data Type in C Language by CodeWithHarry
-📺 YouTube Playlist: DSA in C/C++ – CodeWithHarry
-🧠 All credit to the original creator.
+-📚 Based on: Implementing Array as an Abstract Data Type in C Language by CodeWithHarry
+-📺 YouTube Playlist: DSA in C/C++ – CodeWithHarry
+-🧠 All credit to the original creator.
 
 ⸻

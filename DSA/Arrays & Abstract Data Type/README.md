@@ -1,7 +1,7 @@
 ⸻
 
 
-# 📘 Day X: Arrays & Abstract Data Types (ADT)
+# 📘 Arrays & Abstract Data Types (ADT)
 
 ---
 
@@ -107,8 +107,8 @@ Fixed size	Boxes are limited once made	Limitations for growing data; memory fixe
 
 ✅ Citation
 
-📚 Based on: Array as An Abstract Data Type & Arrays & Abstract Data Type in Data Structures by CodeWithHarry
-📺 YouTube Playlist: [DSA in C/C++ – CodeWithHarry]
-🧠 All credit for video content goes to the original creator
+-📚 Based on: Array as An Abstract Data Type & Arrays & Abstract Data Type in Data Structures by CodeWithHarry
+-📺 YouTube Playlist: [DSA in C/C++ – CodeWithHarry]
+-🧠 All credit for video content goes to the original creator
 
 ⸻
