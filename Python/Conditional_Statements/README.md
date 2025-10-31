@@ -17,16 +17,16 @@
 “If something is true, should I act?”
 
 📖 Example:
-
+```python
 if age >= 18:
     print("You can vote")
 
 🧠 Memory Trick: If = Check & Decide 🧠
-
+```
 ⸻
 
 2. 🔀 What is if-else?
-
+```python
 Two-way choice:
 
 If you’re hungry → eat
@@ -38,11 +38,11 @@ else:
     sleep()
 
 🧠 Memory Trick: Either this OR that 🔁
-
+```
 ⸻
 
 3. 🔁 What is if-elif-else?
-
+```python
 More than 2 choices? Use elif.
 
 📖 Example:
@@ -55,13 +55,13 @@ else:
     print("B")
 
 🧠 Memory Hook: Like a decision tree 🌳
-
+```
 ⸻
 
 4. 🧅 What is Nested if?
 
 An if inside another if.
-
+```python
 📖 Example:
 
 if user == "admin":
@@ -69,7 +69,7 @@ if user == "admin":
         print("Welcome Admin")
 
 🧠 Think: Layers of decisions like peeling an onion.
-
+```
 ⸻
 
 5. 🆚 Comparison Operators
@@ -112,13 +112,13 @@ if condition:
 
 8. 🎯 input() with if
 
-You can take user input to control flow.
+Y```pythonou can take user input to control flow.
 
 x = int(input("Enter number: "))
 if x > 0:
     print("Positive")
 
-
+```
 ⸻
 
 📊 Summary Table
