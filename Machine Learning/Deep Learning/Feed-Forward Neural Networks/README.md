@@ -86,18 +86,18 @@ print("Accuracy:", accuracy_score(y_test, y_pred))
 ⸻
 
 🔁 Flash Revision Prompts
-	1.	What makes a neural network “feed-forward”?
-	2.	What’s the role of the hidden layers in FFNNs?
-	3.	Why are activation functions needed?
-	4.	How does backpropagation help the model learn?
-	5.	What does it mean when we say “deep network”?
+-1.	What makes a neural network “feed-forward”?
+-2.	What’s the role of the hidden layers in FFNNs?
+-3.	Why are activation functions needed?
+-4.	How does backpropagation help the model learn?
+-5.	What does it mean when we say “deep network”?
 
 ⸻
 
 ✅ Citation
 
-📚 Based on: Feed-Forward Neural Networks
-📺 YouTube Playlist: Deep Learning by Krish Naik
-🧠 All credit goes to the original creator.
+-📚 Based on: Feed-Forward Neural Networks
+-📺 YouTube Playlist: Deep Learning by Krish Naik
+-🧠 All credit goes to the original creator.
 
 ⸻
