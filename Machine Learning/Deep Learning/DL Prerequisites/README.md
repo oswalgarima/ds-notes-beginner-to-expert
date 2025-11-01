@@ -69,3 +69,6 @@ Imagine you're teaching a robot to draw shapes:
 
 
 ⸻
+
+**Made with 💙 by [@oswalgarima](https://github.com/oswalgarima)**  
+*Learning out loud, one note at a time 🚀*
