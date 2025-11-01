@@ -84,3 +84,6 @@ if attempt == 0 and '_' in word_guess:
  Inspired by: Practice project from beginner Python series
 
 ⸻
+
+**Made with 💙 by [@oswalgarima](https://github.com/oswalgarima)**  
+*Learning out loud, one note at a time 🚀*
