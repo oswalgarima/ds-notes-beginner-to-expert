@@ -150,3 +150,6 @@ if x > 0:
 -	4.	Why do we need pass?
 
 ⸻
+
+**Made with 💙 by [@oswalgarima](https://github.com/oswalgarima)**  
+*Learning out loud, one note at a time 🚀*
