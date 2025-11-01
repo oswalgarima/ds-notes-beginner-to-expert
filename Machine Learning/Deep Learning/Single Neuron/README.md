@@ -71,3 +71,6 @@ print(neuron([1, 0], [0.6, 0.4], -0.5))  # OR‑like behavior
 🧠 All content in this summary drawn from that video.
 
 ⸻
+
+**Made with 💙 by [@oswalgarima](https://github.com/oswalgarima)**  
+*Learning out loud, one note at a time 🚀*
