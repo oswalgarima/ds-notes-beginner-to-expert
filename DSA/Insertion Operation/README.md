@@ -111,3 +111,6 @@ print(insert_at(my_list, 2, 3))  # [1, 2, 3, 4, 5, 6]
 - 🧠 All credit for video content goes to the original creator.
 
 ⸻
+
+**Made with 💙 by [@oswalgarima](https://github.com/oswalgarima)**  
+*Learning out loud, one note at a time 🚀*
