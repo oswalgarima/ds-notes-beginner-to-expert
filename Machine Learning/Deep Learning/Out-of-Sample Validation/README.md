@@ -103,3 +103,6 @@ print("Cross-Validation Score (avg):", cv_scores.mean())
 🧠 All credit goes to the original creator.
 
 ---
+
+**Made with 💙 by [@oswalgarima](https://github.com/oswalgarima)**  
+*Learning out loud, one note at a time 🚀*
