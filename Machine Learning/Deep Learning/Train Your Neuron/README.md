@@ -84,3 +84,6 @@ for epoch in range(num_epochs):
 - 🧠 All credit for video content goes to the original source.
 
 ⸻
+
+**Made with 💙 by [@oswalgarima](https://github.com/oswalgarima)**  
+*Learning out loud, one note at a time 🚀*
