@@ -90,3 +90,6 @@ print("CV scores:", cv_scores)
 🧠 Concepts supported by sources on model validation and generalization  ￼
 
 ⸻
+
+**Made with 💙 by [@oswalgarima](https://github.com/oswalgarima)**  
+*Learning out loud, one note at a time 🚀*
