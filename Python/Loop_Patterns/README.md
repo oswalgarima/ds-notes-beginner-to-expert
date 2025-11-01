@@ -243,4 +243,6 @@ for i in range(1, 6):  # 5 rows
 
 ⸻
 
-🧠 Happy Looping!
+
+**Made with 💙 by [@oswalgarima](https://github.com/oswalgarima)**  
+*Learning out loud, one note at a time 🚀*
