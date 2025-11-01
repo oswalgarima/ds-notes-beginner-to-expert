@@ -84,3 +84,6 @@ Nested loops multiply	Inner loop * outer loop → more work	Row × Column grid p
 🧠 All credit for video content and examples goes to the original creator.
 
 ⸻
+
+**Made with 💙 by [@oswalgarima](https://github.com/oswalgarima)**  
+*Learning out loud, one note at a time 🚀*
