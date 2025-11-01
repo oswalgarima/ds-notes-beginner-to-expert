@@ -101,3 +101,6 @@ print("Accuracy:", accuracy_score(y_test, y_pred))
 - 🧠 All credit goes to the original creator.
 
 ⸻
+
+**Made with 💙 by [@oswalgarima](https://github.com/oswalgarima)**  
+*Learning out loud, one note at a time 🚀*
