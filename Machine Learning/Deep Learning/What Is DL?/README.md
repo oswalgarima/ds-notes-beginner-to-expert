@@ -72,3 +72,6 @@ Over time, with enough pictures, it gets really good—even with new photos it�
 
 
 ⸻
+
+**Made with 💙 by [@oswalgarima](https://github.com/oswalgarima)**  
+*Learning out loud, one note at a time 🚀*
