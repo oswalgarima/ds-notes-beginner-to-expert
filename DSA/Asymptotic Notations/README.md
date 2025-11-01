@@ -94,3 +94,6 @@ Big Theta	Both bounds — tight bound	Gives “typical range” of performance
 🧠 All credit for video content goes to the original creator.
 
 ⸻
+
+**Made with 💙 by [@oswalgarima](https://github.com/oswalgarima)**  
+*Learning out loud, one note at a time 🚀*
