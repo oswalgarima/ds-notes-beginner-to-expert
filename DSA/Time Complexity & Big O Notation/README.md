@@ -1,6 +1,6 @@
 ⸻
 
-# 📘 Day 2: Time Complexity & Big O Notation
+# 📘 Time Complexity & Big O Notation
 
 ---
 
