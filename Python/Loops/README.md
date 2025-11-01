@@ -123,3 +123,6 @@ else:
 	4.	What does continue do?
 
 ⸻
+
+**Made with 💙 by [@oswalgarima](https://github.com/oswalgarima)**  
+*Learning out loud, one note at a time 🚀*
