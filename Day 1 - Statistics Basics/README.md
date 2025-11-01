@@ -61,3 +61,6 @@ Built from daily notes, Khan Academy videos, Coursera content, and real-world br
 Made with love for learners who want **clarity without complexity**
 
 ---
+
+**Made with 💙 by [@oswalgarima](https://github.com/oswalgarima)**  
+*Learning out loud, one note at a time 🚀*
