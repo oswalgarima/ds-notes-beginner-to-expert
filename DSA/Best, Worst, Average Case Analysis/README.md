@@ -83,3 +83,6 @@ Average Case	Normal everyday scenario somewhere between best & worst	“On a bad
 🧠 All credit for video content goes to the original creator.
 
 ⸻
+
+**Made with 💙 by [@oswalgarima](https://github.com/oswalgarima)**  
+*Learning out loud, one note at a time 🚀*
