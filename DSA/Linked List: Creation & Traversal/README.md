@@ -153,5 +153,5 @@ ll.print_list()  # Output: 10 -> 20 -> 30 -> NULL
 
 ⸻
 
-💙 Made by @oswalgarima￼
+Made with 💙 by @oswalgarima
 Learning out loud, one note at a time 🚀
