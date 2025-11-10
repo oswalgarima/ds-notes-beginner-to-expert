@@ -80,7 +80,7 @@ int main() {
 
 ⸻
 
-🐍 Python Concept: Same Logic Using Classes
+### 🐍 Python Concept: Same Logic Using Classes
 ```python
 
 class Node:
@@ -137,11 +137,11 @@ ll.print_list()  # Output: 10 -> 20 -> 30 -> NULL
 ⸻
 
 🔁 Flash Revision Prompts
-	1.	What’s the main difference between arrays and linked lists in memory?
-	2.	Why is traversal O(n) even for short tasks?
-	3.	What does malloc do in linked list creation in C?
-	4.	How do we know we’ve reached the end of a linked list?
-	5.	What happens if we forget to update the next pointer during insertion?
+-	1.	What’s the main difference between arrays and linked lists in memory?
+-	2.	Why is traversal O(n) even for short tasks?
+-	3.	What does malloc do in linked list creation in C?
+-	4.	How do we know we’ve reached the end of a linked list?
+-	5.	What happens if we forget to update the next pointer during insertion?
 
 ⸻
 
@@ -155,5 +155,3 @@ ll.print_list()  # Output: 10 -> 20 -> 30 -> NULL
 
 💙 Made by @oswalgarima￼
 Learning out loud, one note at a time 🚀
-
----  
