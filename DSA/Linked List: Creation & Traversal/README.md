@@ -147,9 +147,9 @@ ll.print_list()  # Output: 10 -> 20 -> 30 -> NULL
 
 ✅ Citation
 
-📚 Based on: Linked List Data Structure: Creation and Traversal
-📺 YouTube Playlist: DSA in C/C++ – CodeWithHarry
-🧠 All credit to the original creator.
+-📚 Based on: Linked List Data Structure: Creation and Traversal
+-📺 YouTube Playlist: DSA in C/C++ – CodeWithHarry
+-🧠 All credit to the original creator.
 
 ⸻
 
