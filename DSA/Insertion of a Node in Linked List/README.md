@@ -1,95 +1,66 @@
-Here’s your complete README.md file in clean copy-paste format for your GitHub repo, based on the video: Insertion of a Node in a Linked List.
+# 📘 Linked List Data Structure: Insertion of a Node
 
-⸻
-
-
-# 📘 Insertion of a Node in a Linked List
-
-🎥 **Video Title:** Insertion of a Node in a Linked List Data Structure  
-🔗 [Watch on YouTube](https://www.youtube.com/watch?v=ewCc7O2K5SM&list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi&index=16)  
+🎥 **Video Title:** Insertion of a Node in a Linked List  
+🔗 [Watch on YouTube](https://www.youtube.com/watch?v=ewCc7O2K5SM&list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi&index=16)
 
 ---
 
 ## 📌 What You Will Learn Today
 
-- How to insert nodes in a linked list at:
-  - The beginning (head)
-  - The end (tail)
-  - A specific position (middle)
-- How to adjust `next` pointers to maintain list structure.
-- C code implementation of insertions.
-- Real-world use cases of different insert positions.
-- Logic behind node creation and pointer reassignment.
+- How to **insert a node** at different positions in a linked list:
+  - At the beginning (head)
+  - At the end (tail)
+  - At a specific position (e.g., after 2nd node)
+- Role of pointers in adjusting `next` references correctly.
+- Real-time C code implementation using `malloc()` and `struct`.
+- Importance of traversal for positional insertion.
+- Dynamic memory and pointer handling for safe insertions.
 
 ---
 
 ## 🧒 Beginner-Friendly Explanation Table
 
-| 📌 Concept        | 👶 Simple Explanation                             | 🧠 Memory Hook                                |
-|------------------|---------------------------------------------------|-----------------------------------------------|
-| Insert at Head   | Make new node, point it to old head, update head  | Like adding a book to the top of a stack 📚   |
-| Insert at End    | Go to last node, point its `next` to new node     | Like adding a new train car at the back 🚃     |
-| Insert in Middle | Walk to position, insert between two nodes        | Like inserting a page in the middle of a book 📖 |
-| Update Pointers  | Adjust links before & after inserting             | Like rerouting traffic signs 🪧                |
-| Position Index   | Count nodes to find correct location              | Like finding a seat in a row 🎟️               |
+| 📌 Concept           | 👶 Simple Explanation                          | 🧠 Memory Hook                                |
+|---------------------|-----------------------------------------------|-----------------------------------------------|
+| Insert at Head      | Add node in front and link to old head        | Like putting a new engine in front of a train 🚂 |
+| Insert at End       | Traverse till last node and link new one      | Like adding a new trailer to the end 🚛       |
+| Insert at Position  | Go to the position before and re-link nodes   | Like sneaking a box into a chain 📦           |
+| Traversal           | Move one node at a time till desired spot     | Like walking room to room through doors 🚪     |
+| malloc in C         | Allocates memory for new node                 | Like booking a hotel room before check-in 🛎️   |
 
 ---
 
-## 💻 Code Example (C)
+## 💻 Code Examples (C + Python)
+
+### 🔎 C Code: Insertion in Linked List
 
 ```c
 #include <stdio.h>
 #include <stdlib.h>
 
-// Define node structure
 struct Node {
     int data;
     struct Node* next;
 };
 
-// Create a new node
-struct Node* createNode(int value) {
-    struct Node* newNode = (struct Node*)malloc(sizeof(struct Node));
-    newNode->data = value;
-    newNode->next = NULL;
-    return newNode;
-}
-
 // Insert at head
 void insertAtHead(struct Node** head, int value) {
-    struct Node* newNode = createNode(value);
+    struct Node* newNode = (struct Node*)malloc(sizeof(struct Node));
+    newNode->data = value;
     newNode->next = *head;
     *head = newNode;
 }
 
 // Insert at end
-void insertAtEnd(struct Node** head, int value) {
-    struct Node* newNode = createNode(value);
-    if (*head == NULL) {
-        *head = newNode;
-        return;
-    }
-    struct Node* current = *head;
-    while (current->next != NULL) {
-        current = current->next;
-    }
-    current->next = newNode;
-}
+void insertAtEnd(struct Node* head, int value) {
+    struct Node* newNode = (struct Node*)malloc(sizeof(struct Node));
+    newNode->data = value;
+    newNode->next = NULL;
 
-// Insert at position (0-based index)
-void insertAtPosition(struct Node** head, int position, int value) {
-    if (position == 0) {
-        insertAtHead(head, value);
-        return;
-    }
-    struct Node* newNode = createNode(value);
-    struct Node* current = *head;
-    for (int i = 0; i < position - 1 && current != NULL; i++) {
-        current = current->next;
-    }
-    if (current == NULL) return;
-    newNode->next = current->next;
-    current->next = newNode;
+    while (head->next != NULL)
+        head = head->next;
+
+    head->next = newNode;
 }
 
 // Print list
@@ -101,16 +72,58 @@ void printList(struct Node* head) {
     printf("NULL\n");
 }
 
-// Main
 int main() {
     struct Node* head = NULL;
-    insertAtHead(&head, 30);
-    insertAtEnd(&head, 50);
-    insertAtPosition(&head, 1, 40); // insert 40 between 30 and 50
-    printList(head);
+
+    insertAtHead(&head, 20);
+    insertAtHead(&head, 10);
+    insertAtEnd(head, 30);
+
+    printList(head); // Output: 10 -> 20 -> 30 -> NULL
     return 0;
 }
+```
 
+### 🔎 Python Code: Insertion in Linked List
+
+```python
+class Node:
+    def __init__(self, data):
+        self.data = data
+        self.next = None
+
+class LinkedList:
+    def __init__(self):
+        self.head = None
+
+    def insert_at_head(self, value):
+        new_node = Node(value)
+        new_node.next = self.head
+        self.head = new_node
+
+    def insert_at_end(self, value):
+        new_node = Node(value)
+        if not self.head:
+            self.head = new_node
+            return
+        curr = self.head
+        while curr.next:
+            curr = curr.next
+        curr.next = new_node
+
+    def print_list(self):
+        curr = self.head
+        while curr:
+            print(curr.data, end=" -> ")
+            curr = curr.next
+        print("NULL")
+
+# Usage
+ll = LinkedList()
+ll.insert_at_head(20)
+ll.insert_at_head(10)
+ll.insert_at_end(30)
+ll.print_list()  # Output: 10 -> 20 -> 30 -> NULL
 ```
 ⸻
 
